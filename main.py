@@ -24,3 +24,4 @@ keyboard.wait('esc')
 
 print("Ya está, mira keylogResults.txt")
 
+
